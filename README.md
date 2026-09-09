@@ -1,2 +1,1 @@
-# fantastic-disco
-riekstalote-blip
+# programmesana-pamatkurss
