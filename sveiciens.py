@@ -1,1 +1,1 @@
-print("Čau")
+print("LOTE")
