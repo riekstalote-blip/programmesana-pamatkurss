@@ -1,1 +1,1 @@
-print("LOTE")
+print("LOTEIKrISTA")
