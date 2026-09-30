@@ -5,3 +5,4 @@ Autors: Lote Rieksta
 - Apstiprināt
 ## Licence
 MIT licence ir viena no populārākajām un brīvākajām atvērtā pirmkoda licencēm, kas ļauj ikvienam bez maksas lietot, modificēt un izplatīt programmatūru jebkādiem mērķiem, ja vien tiek saglabāts oriģinālais autortiesību paziņojums.
+*MIT*
