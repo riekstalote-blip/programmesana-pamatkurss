@@ -1,7 +1,7 @@
-## Virsraksts
-**autors**
-## Palaišana
-## Ergonomika
--
--
--
+## Virsraksts 
+**autors** 
+## Palaišana 
+## Ergonomika 
+- 
+- 
+- 
