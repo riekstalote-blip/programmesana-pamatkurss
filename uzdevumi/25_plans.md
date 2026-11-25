@@ -9,11 +9,11 @@
 6. Ja skaitļi nesakrīt, parādīt "Tu zaudēji".
 7. Parādīt pareizo skaitli.
 
-##  |  Mainīgā vards    | datu tips|           ko glabā            |
-### |:----------------- | :------: | -----------------------------:|
-### | nejaušais_skaitlis|   int    | datora ģenerēto skaitli       |     
-### | speletaja_skaitlis|   int    | spēlētāja ievadīto skaitli    |
-### | starpiba          |   int    | starpību starp abiem skaitļiem|
+##  |  Mainīgā vards    | datu tips |           ko glabā            |
+### |:----------------- | :-------: | -----------------------------:|
+### | nejaušais_skaitlis|    int    | datora ģenerēto skaitli       |     
+### | speletaja_skaitlis|    int    | spēlētāja ievadīto skaitli    |
+### | starpiba          |    int    | starpību starp abiem skaitļiem|
 
 starpiba=abs(speletaja_skaitlis - nejaušais_skaitlis)
 
